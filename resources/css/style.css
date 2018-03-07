@@ -1,10 +1,12 @@
 
 body{
     background: #010101;
+    text-align: center;
+    font-family: "Verdana", sans-serif; 
 }
 
 h1 {
-    font-family: Verdana;
+
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -27,10 +29,10 @@ h3{
     text-align: center;
 }
 
-h4 {
+.link {
     font-family: Verdana;
     color: aquamarine;
-    text-decoration: underline; 
+    text-decoration: underline;
     font-size: 16px;
     font-weight: lighter;
     text-align: center;
