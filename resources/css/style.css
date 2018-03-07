@@ -1,0 +1,60 @@
+
+body{
+    background: #010101;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3{
+    font-family: Verdana;
+    font-size: 21px;
+    font-weight: lighter;
+    color: gray;
+    text-align: center;
+}
+
+h4 {
+    font-family: Verdana;
+    color: aquamarine;
+    text-decoration: underline; 
+    font-size: 16px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+h5 {
+    font-family: Verdana;
+    font-size: 12px;
+    text-align: right;
+    font-weight: lighter;
+    color: grey;
+}
+
+.image {
+    text-align: center;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
